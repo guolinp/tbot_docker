@@ -8,7 +8,7 @@
 - ### this docker has an environment for tbot running
 
 ## How to run?
-- ### start a container
+- ### Start a container
   ```bash
   $ docker run -it --rm panguolin/tbot
   ```
@@ -20,8 +20,8 @@
   ```bash
   bash-4.4# tbot your_test_name
   ```
-- ### exit container
+- ### Exit container
   ``bash
   ash-4.4# exit
   ``
-- ### for test creating, check the tbot docs
+- ### For test creating, check the tbot docs
