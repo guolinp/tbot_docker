@@ -9,19 +9,19 @@
 
 ## How to run?
 - ### start a container
-```bash
-$ docker run -it --rm panguolin/tbot
-```
+  ```bash
+  $ docker run -it --rm panguolin/tbot
+  ```
 - ### As a demo, run selftest, the tests are provided by tbot
-```bash
-bash-4.4# tbot selftest
-```
+  ```bash
+  bash-4.4# tbot selftest
+  ```
 - ### After adding your test, run it by
-```bash
-bash-4.4# tbot your_test_name
-```
+  ```bash
+  bash-4.4# tbot your_test_name
+  ```
 - ### exit container
-```bash
-bash-4.4# exit
-```
+  ``bash
+  ash-4.4# exit
+  ``
 - ### for test creating, check the tbot docs
