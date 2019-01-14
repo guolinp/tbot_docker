@@ -4,7 +4,7 @@
 - ### Docs https://rahix.de/tbot/index.html
 - ### Code: https://github.com/Rahix/tbot
 
-## what does this docker?
+## What does this docker?
 - ### this docker has an environment for tbot running
 
 ## How to run?
