@@ -2,7 +2,7 @@ FROM panguolin/python3.7
 
 WORKDIR /
 
-RUN apk add -q --progress --update --no-cache libressl-dev openssl
+RUN apk add -q --progress --update --no-cache libressl-dev openssh
 
 RUN git clone https://github.com/Rahix/tbot.git
 
