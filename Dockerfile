@@ -13,6 +13,8 @@ RUN apt-get update \
     && apt-get install -y git \
     && apt-get install -y mercurial \
     && apt-get install -y vim \
+    && apt-get install -y qemu-system-arm \
+    && apt-get install -y qemu-system-x86 \
     && apt-get install -y python3.6 \
     && curl -o /tmp/get-pip.py "https://bootstrap.pypa.io/get-pip.py" \
     && python3.6 /tmp/get-pip.py \
